@@ -21,7 +21,13 @@ The original data was from [OpenAI Gym](https://gym.openai.com).
 
 ## Examples of Results
 
+**Best game by SAC**:
+
 ![best_task3](https://github.com/ChikazeMori/DeepReinforcementLearning-Applied-to-Atari/blob/main/examples/best_task3.gif)
+
+**Best game by DQN**:
+
+![best_task4](https://github.com/ChikazeMori/DeepReinforcementLearning-Applied-to-Atari/blob/main/examples/best_task4.gif)
 
 
 ## Conclusion 
