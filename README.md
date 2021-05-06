@@ -1,6 +1,7 @@
 # Deep Reinforcement Learning Applied to Atari MsPacman
 
-* Created a tabular Reinforcement Learning environment.
+* Created a tabular r
+* einforcement learning environment.
 * Applied Q-learning in the environment created.
 * Applied Soft Actor Critic to Atari MsPacman.
 * Applied Deep Q-Network to Atari MsPacman.
@@ -19,13 +20,13 @@
 ## Original Data
 The original data was from [OpenAI Gym](https://gym.openai.com).
 
-## Results
+## Examples of Results
+
+![]()
 
 
 ## Conclusion 
-* SVM outperformed MLP
-* MLP is more capable of computational training than SVM and has potential to outperform SVM when it is trained with bigger size of hidden layers.
-
+* DQN outperforms SAC in Atari MsPacman, which suggests that DQN performs better than SAC when the environment has complex rules and uncertainty.
 
 ## Specifications
 
@@ -33,11 +34,10 @@ The original data was from [OpenAI Gym](https://gym.openai.com).
 
 All jupyter notebooks are available as ipynb.
 
-* data_preparation: Clean the dataset
-* MLP_optimisation: Apply a grid search for MLP
-* SVM_optimisation: Apply a grid search for SVM
-* MLP_testing: Test the MLP model
-* SVM_testing: Test the SVM model
+* Task_1: Create a tabular reinforcement learning environment 
+* Task_2: Apply Q-learning to the environment created in Task_1
+* Task_3: Apply SAC to Atari MsPacman
+* Task_4: Apply DQN to Atari MsPacman
 
 ### Folders
 
@@ -45,6 +45,4 @@ All jupyter notebooks are available as ipynb.
 
 ### Files
 
-* MLP_optimised.joblib: The optimised MLP model
-* SVM_optimised.joblib: The optimised SVM model
 * Report: The report for the whole project
