@@ -1,7 +1,6 @@
 # Deep Reinforcement Learning Applied to Atari MsPacman
 
-* Created a tabular r
-* einforcement learning environment.
+* Created a tabular reinforcement learning environment.
 * Applied Q-learning in the environment created.
 * Applied Soft Actor Critic to Atari MsPacman.
 * Applied Deep Q-Network to Atari MsPacman.
@@ -22,7 +21,7 @@ The original data was from [OpenAI Gym](https://gym.openai.com).
 
 ## Examples of Results
 
-![]()
+![best_task3](https://github.com/ChikazeMori/DeepReinforcementLearning-Applied-to-Atari/blob/main/examples/best_task3.mp4)
 
 
 ## Conclusion 
