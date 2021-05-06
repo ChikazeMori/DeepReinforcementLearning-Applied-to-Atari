@@ -21,7 +21,7 @@ The original data was from [OpenAI Gym](https://gym.openai.com).
 
 ## Examples of Results
 
-![best_task3](https://github.com/ChikazeMori/DeepReinforcementLearning-Applied-to-Atari/blob/main/examples/best_task3.mp4)
+![best_task3](https://github.com/ChikazeMori/DeepReinforcementLearning-Applied-to-Atari/blob/main/examples/best_task3.gif)
 
 
 ## Conclusion 
