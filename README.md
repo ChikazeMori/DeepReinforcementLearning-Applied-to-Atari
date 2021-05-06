@@ -25,9 +25,13 @@ The original data was from [OpenAI Gym](https://gym.openai.com).
 
 ![best_task3](https://github.com/ChikazeMori/DeepReinforcementLearning-Applied-to-Atari/blob/main/examples/best_task3.gif)
 
+Pacman gets stuck at a corner and stops moving.
+
 **Best game by DQN**:
 
 ![best_task4](https://github.com/ChikazeMori/DeepReinforcementLearning-Applied-to-Atari/blob/main/examples/best_task4.gif)
+
+Pacman moves more smoothly and does not stop moving.
 
 
 ## Conclusion 
